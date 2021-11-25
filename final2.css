@@ -1,0 +1,261 @@
+
+body {
+    background-color: #f4f5f7;
+    display: flex;
+    margin-top: 0;
+    margin-left: 0;
+
+}
+.navbar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    width: 30%;
+    background-color: white;
+    
+}
+.i1 {
+  
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.a3 {
+    display: flex;
+    
+}
+.a {
+    color: black;
+    border-left: inset #7e3af2 ;
+    display: flex;
+}
+.a:hover {
+    cursor: pointer;
+}
+.a1 {
+    width: 12em;
+    margin-top: 0;
+    color:#3d3e41 ;
+}
+.a3:hover {
+    color: black;
+    cursor: pointer;
+
+}
+
+.a2 {
+    background-color:#7e3af2 ;  
+    border-radius: 5px;
+    width: 80%;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 2em;
+    padding-left: 1em;
+    margin-top: 1em;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+#textInput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3d3e41;
+    width: 50%;
+    background-color: #f4f5f7;
+    height: 2em;
+    margin-top: 2em;
+    border-radius: 4px;
+}
+hr {
+    color: lightgrey;
+}
+.t2 {
+    margin-left: 4em;
+    margin-right: 3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.t3 {
+    margin-left: 4em;
+    margin-right: 3em;
+}
+.n1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#7e3af2 ;
+    color: white;
+    border-radius: 5px;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+.a2, .n1:hover {
+    cursor: pointer;
+}
+
+.b1 {
+    display: flex;
+    flex-direction: row;
+    
+}
+.b2 {
+    height: 4em;
+    width: 12em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: white;
+    display: flex;
+    
+}
+h4 {
+    margin-top: 0;
+}
+[class^="k-"] {
+    width: 0em;
+    margin-right: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+    
+}
+.k-1 {
+    color: #ff5a1f;
+    background-color: #feecdc;
+    width: 2em;
+    height: 2em;
+    
+    
+    
+    border-radius: 50%;
+}
+.k-2 {
+    color: #0e9f6e;
+    background-color: #def7ec;
+    
+    height: 2em;
+    width: 2em;
+    border-radius: 50%;
+   
+}
+.k-3 {
+    height: 2em;
+    width: 2em;
+    background-color:#e1effe ;
+    color: #3f83f8;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.k-4 {
+    height: 2em;
+    width: 2em;
+    background-color: #d5f5f6;
+    color: #0694a2;
+    border-radius: 50%;
+}
+
+.r1 {
+    height: 2em;
+    width: 100%;
+  
+   
+    display: flex;
+    flex-direction: column;
+    text-align: start;   
+}
+.r7 {
+    color:  #bfc1c5;
+    font-size: small;
+}
+.m1:hover {
+    cursor: pointer;
+    background-color: purple;
+    color: white;
+}
+.w1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    background-color: white;
+    
+}
+
+.r2, .r3, .r5, .r6 {
+    width: 10em;
+    
+    
+}
+.r3 {
+    background-color: #def7ec;
+    color: #0e9f6e;
+    border-radius: 10px;
+    width: 1px;
+    text-align: center;
+}
+.r4 {
+    
+    text-align: start;
+    padding-right: 5em;
+    
+}
+.r5 {
+    color:#e02424 ;
+    background-color:#fde8e8 ;
+    border-radius: 10px;
+    text-align: center;
+}
+.r6 {
+    color: #24262d;
+    background-color:#f4f5f7 ;
+    border-radius: 10px;
+    text-align: center;
+}
+thead {
+    background-color: #f4f5f7;
+    width: 100%;
+    
+    
+    
+}
+tbody {
+    width: 100%;
+}
+tr {
+    border: #24262d 1px solid;
+   
+}
+.h1, .h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    background-color: #f4f5f7;
+    
+}
+.h2 {
+    display: flex;
+    justify-content: flex-end;
+}
+.h1 {
+    border: lightgrey solid 1px;
+    height: 2em;
+    margin-top: 1em;
+    
+}
+.tr1 {
+    border: lightgrey solid 1px;
+}
+@media only screen and (max-width: 640px) {
+   
+}
